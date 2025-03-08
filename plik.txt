@@ -1,1 +1,3 @@
 mój pierwszt commit
+
+mój drugi commit
