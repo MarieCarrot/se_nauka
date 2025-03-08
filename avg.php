@@ -1,0 +1,1 @@
+dorzuć funkcję "srednia wazona"
